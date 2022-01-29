@@ -1,7 +1,7 @@
 ### Hi five!✋ Welcome to my Git hub
 
-Hi! My name is Douglas Xavier, I'm Front-end developer junior interested in learning more about web and mobile application development, 
-with solid knowledge in frontend development. And I'm currently a student of UX and UI design in my spare time, always trying to combine 
+Hi! My name is Douglas Xavier, I'm <i>Front-end developer junior</i> interested in learning more about web and mobile application development, 
+with solid knowledge in front-end development. And I'm currently a student of UX and UI design in my spare time, always trying to combine 
 an application with a good user experience. ✌️🌾
 
 <div>
